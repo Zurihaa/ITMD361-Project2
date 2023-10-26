@@ -27,7 +27,6 @@ body {
 }
 #navbar ul li {
   float: left;
-  position: center;
   display: block;
   width: 33.33%;
 }
