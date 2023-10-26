@@ -1,3 +1,7 @@
+body {
+  background-color: #9ac1e7;
+}
+
 #navbar {
   background-color: rgb(255, 0, 0);
   overflow: hidden;
@@ -39,6 +43,7 @@
 #navbar ul li a:hover{
   background-color: #00c3ff;
 }
+
 
 h1 {
   font-size: 32px;
@@ -92,4 +97,8 @@ th{
   width: 10%;
 }
 
+video {
+  display: block;
+  margin: auto;
+}
   
